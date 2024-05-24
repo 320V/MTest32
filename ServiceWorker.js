@@ -1,9 +1,9 @@
 const cacheName = "ASME.MEB.ObebEkokCarki-MEB - OBEBEKOK Carki-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/32-Ebob Ekok Çarkları.loader.js",
+    "Build/32-Ebob Ekok Çarkları.framework.js",
+    "Build/32-Ebob Ekok Çarkları.data",
+    "Build/32-Ebob Ekok Çarkları.wasm",
     "TemplateData/style.css"
 
 ];
